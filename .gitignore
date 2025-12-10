@@ -1,7 +1,8 @@
 cache/
 catboost_info/
 data/
-models/
+models/*.joblib
+models/*.pkl
 saved/
 
 *.csv
