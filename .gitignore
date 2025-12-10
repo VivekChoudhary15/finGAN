@@ -1,0 +1,12 @@
+cache/
+catboost_info/
+data/
+models/
+saved/
+
+*.csv
+test.ipynb
+xgboost.ipynb
+ensemble copy.ipynb
+ensembleModel.ipynb
+*.pkl
